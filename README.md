@@ -1,4 +1,3 @@
-
 <h2>
   Hello and welcome to my profile! <br />
   Here, you can find examples of my coding practice.
@@ -118,7 +117,8 @@ width="40"
       src="/images/fish.gif"
       width="120"
     />
-  </div>
+  </div> 
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Serhieie&theme=shadow_blue)](https://github.com/Serhieie/github-readme-stats)
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Serhieie&theme=shadow_blue)](https://github.com/Serhieie/github-readme-stats)
   
