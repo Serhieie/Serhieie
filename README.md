@@ -1,4 +1,4 @@
-<table align="center">
+<table align="center" style="border-collapse: collapse;>
   <tr>
     <td align="center">
       <h2>
