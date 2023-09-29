@@ -3,7 +3,7 @@
   <tr>
     <td align="center">
 <img src="/images/cat-sleeping.gif" alt="cat sleeping" width="150" />
-<img src="/images/cold-weather.gif" alt="room with electronic and laptop and snow in the window" width="450" />
+<img src="/images/cold-weather.gif" alt="room with electronic and laptop and snow in the window" width="550" />
 <img src="/images/fish.gif" alt="cat sleeping" width="130"  />
     </td>
   </tr>
