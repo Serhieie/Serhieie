@@ -11,7 +11,7 @@
   <h2 >
     Languages and Tools wich I learning
   </h2>
-  <div">
+  <div>
     <img
       src="/images/cat-sleeping.gif"
       alt="cat sleeping"
@@ -84,13 +84,10 @@
         <img src="/images/javascript-logo.png" alt="js logo" width="50" height="50" />
       </li>
       <li>
-        <svg
-          xmlns="http://www.w3.org/2000/svg"
+        <svg xmlns="http://www.w3.org/2000/svg"
           viewBox="-11.5 -10.232 23 20.463"
-
-width="40"
-          height="40"
-        >
+          width="40"
+         height="40">
           <circle r="2.05" fill="#61dafb" />
           <g stroke="#61dafb" fill="none">
             <ellipse rx="11" ry="4.2" />
