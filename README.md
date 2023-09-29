@@ -20,8 +20,6 @@
       alt="cat sleeping"
       width="200"
     />
-    <ul >
-      <li>
         <svg
           xmlns="http://www.w3.org/2000/svg"
           viewBox="0 0 128 128"
@@ -45,8 +43,6 @@
             d="M63.962 66.978v11.063h13.624L76.302 92.39l-12.34 3.331v11.51l22.682-6.286.166-1.87 2.6-29.127.27-2.97h-2.982zm0-22.395v11.064h26.725l.221-2.487.505-5.608.265-2.969z"
           />
         </svg>
-      </li>
-      <li>
         <svg
           xmlns="http://www.w3.org/2000/svg"
           viewBox="0 0 128 128"
@@ -82,11 +78,7 @@
             d="M64.039 43.677v11.137H37.136l-.224-2.503-.507-5.646-.267-2.988h27.901zM64 66.221v11.138H51.753l-.223-2.503-.508-5.647-.267-2.988H64z"
           />
         </svg>
-      </li>
-      <li>
         <img src="/images/javascript-logo.png" alt="js logo" width="50" height="50" />
-      </li>
-      <li>
         <svg xmlns="http://www.w3.org/2000/svg"
           viewBox="-11.5 -10.232 23 20.463"
           width="40"
@@ -98,8 +90,6 @@
             <ellipse rx="11" ry="4.2" transform="rotate(120)" />
           </g>
         </svg>
-      </li>
-      <li>
         <svg
           xmlns="http://www.w3.org/2000/svg"
           viewBox="0 0 32 32"
@@ -111,8 +101,6 @@
             fill="#f03c2e"
           />
         </svg>
-      </li>
-    </ul>
     <img
       src="/images/fish.gif"
       width="120"
@@ -120,8 +108,7 @@
   </div> 
 </div>
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Serhieie&theme=shadow_blue)](https://github.com/Serhieie/github-readme-stats)
-  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Serhieie&theme=shadow_blue)](https://github.com/Serhieie/github-readme-stats) 
     </td>
   </tr>
 </table>
