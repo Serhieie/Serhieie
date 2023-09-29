@@ -1,4 +1,7 @@
-<h2>
+<table align="center">
+  <tr>
+    <td>
+      <h2>
   Hello and welcome to my profile! <br />
   Here, you can find examples of my coding practice.
 </h2>
@@ -119,3 +122,6 @@
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Serhieie&theme=shadow_blue)](https://github.com/Serhieie/github-readme-stats)
   
+    </td>
+  </tr>
+</table>
