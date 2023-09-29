@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Bohdan, Here, you can find examples of my coding practice.</h1>
+<h1 align="center">Hi 👋, I'm Bohdan. Here, you can find examples of my coding practice.</h1>
+
+<img  align="center" src="/images/cold-weather.gif" alt="room with electronic and laptop and snow in the window" width="650" />
+
 - 🌱 I’m currently learning **how to make <magic> in Web Dev**
 
 - 💬 Ask me about **JavaScript, React and Node.js**
