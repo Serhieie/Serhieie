@@ -1,6 +1,6 @@
 <table align="center">
   <tr>
-    <td>
+    <td align="center">
       <h2>
   Hello and welcome to my profile! <br />
   Here, you can find examples of my coding practice.
