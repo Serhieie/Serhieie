@@ -2,9 +2,9 @@
 <table align="center" style="border-collapse: collapse;">
   <tr>
     <td align="center">
-<img src="/images/cat-sleeping.gif" alt="cat sleeping" width="100" />
+<img src="/images/cat-sleeping.gif" alt="cat sleeping" width="150" />
 <img src="/images/cold-weather.gif" alt="room with electronic and laptop and snow in the window" width="650" />
-<img src="/images/fish.gif" alt="cat sleeping" width="80"  />
+<img src="/images/fish.gif" alt="cat sleeping" width="130"  />
     </td>
   </tr>
 </table>
