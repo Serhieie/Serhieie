@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bohdan. Here, you can find examples of my coding practice.</h1>
-<img src="/images/cat-sleeping.gif" alt="cat sleeping" width="200" style="display: inline-block; margin-right: 20px;" />
 <table align="center" style="border-collapse: collapse;">
   <tr>
     <td align="center">
 <img src="/images/cold-weather.gif" alt="room with electronic and laptop and snow in the window" width="650" />
+<img src="/images/cat-sleeping.gif" alt="cat sleeping" width="200" style="display: inline-block; margin-right: 20px;" />
     </td>
   </tr>
 </table>
