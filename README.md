@@ -9,7 +9,7 @@
   </tr>
 </table>
 
-- 🌱 I’m currently learning **how to make <magic> in Web Dev**
+- 🌱 I’m currently learning **how to make magic in Web Dev**
 
 - 💬 Ask me about **JavaScript, React and Node.js**
 
