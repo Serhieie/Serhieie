@@ -2,7 +2,7 @@
 <div align="center">
   <h3 align="center">My practice with Codewars:</h3>
   
-  ![Codewars]([https://www.codewars.com/users/Serhie/badges/micro](https://www.codewars.com/users/Serhie/badges/large))
+  ![Codewars](https://www.codewars.com/users/Serhie/badges/large)
 </div>
 <table align="center" style="border-collapse: collapse;">
   <tr>
