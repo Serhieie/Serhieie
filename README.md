@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bohdan. Here, you can find examples of my coding practice.</h1>
 <div align="center">
-  <h3 align="center">My practice with Codewars:</h3>
+  <h3 align="center">My practice with Codewars: </h3>
   
   ![Codewars](https://www.codewars.com/users/Serhie/badges/large)
 </div>
