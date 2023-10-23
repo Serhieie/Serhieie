@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **how to make magic in Web Dev**
 
-- 💬 Ask me about **JavaScript, React and Node.js**
+- 💬 Ask me about **JavaScript
 
 - 📫 How to reach me **serhieievb@gmail.com**
 
